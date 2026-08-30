@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\ejemplo1\\experiencia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\experiencia.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\ejemplo1\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\perfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|c:\\users\\lsell\\onedrive\\escritorio\\curso c# nivel 3\\miprimeraweb en asp .net\\miprimeraweb.net\\ejemplo1\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\ejemplo1\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\ejemplo1\\proyectos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{94AF1091-089E-4BB4-97D0-4AEA93CC650E}|Ejemplo1\\Ejemplo1.csproj|solutionrelative:ejemplo1\\proyectos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MiMaster.Master",
+              "DocumentMoniker": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\MiMaster.Master",
+              "RelativeDocumentMoniker": "Ejemplo1\\MiMaster.Master",
+              "ToolTip": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\MiMaster.Master",
+              "RelativeToolTip": "Ejemplo1\\MiMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-17T10:41:11.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Perfil.aspx",
+              "DocumentMoniker": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Perfil.aspx",
+              "RelativeDocumentMoniker": "Ejemplo1\\Perfil.aspx",
+              "ToolTip": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Perfil.aspx",
+              "RelativeToolTip": "Ejemplo1\\Perfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-17T10:48:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Proyectos.aspx",
+              "DocumentMoniker": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Proyectos.aspx",
+              "RelativeDocumentMoniker": "Ejemplo1\\Proyectos.aspx",
+              "ToolTip": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Proyectos.aspx",
+              "RelativeToolTip": "Ejemplo1\\Proyectos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-20T21:46:17.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Experiencia.aspx",
+              "DocumentMoniker": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Experiencia.aspx",
+              "RelativeDocumentMoniker": "Ejemplo1\\Experiencia.aspx",
+              "ToolTip": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Experiencia.aspx",
+              "RelativeToolTip": "Ejemplo1\\Experiencia.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-20T22:01:55.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contacto.aspx",
+              "DocumentMoniker": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Contacto.aspx",
+              "RelativeDocumentMoniker": "Ejemplo1\\Contacto.aspx",
+              "ToolTip": "C:\\Users\\lsell\\OneDrive\\Escritorio\\Curso C# Nivel 3\\MiPrimeraWeb en ASP .NET\\MiPrimeraWeb.NET\\Ejemplo1\\Contacto.aspx",
+              "RelativeToolTip": "Ejemplo1\\Contacto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-20T22:06:31.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
